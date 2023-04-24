@@ -47,10 +47,18 @@
 		FA9C95DE29F70A32007B0954 /* NetLib */ = {
 			isa = PBXGroup;
 			children = (
+				FA9C95E829F70A55007B0954 /* Public */,
 				FA9C95DF29F70A32007B0954 /* NetLib.h */,
 				FA9C95E029F70A32007B0954 /* NetLib.docc */,
 			);
 			path = NetLib;
+			sourceTree = "<group>";
+		};
+		FA9C95E829F70A55007B0954 /* Public */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Public;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
